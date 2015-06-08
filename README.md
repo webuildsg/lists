@@ -8,6 +8,7 @@ lists of developer, designer, maker related stuff
 - [Red Dot Ruby Conf](http://www.reddotrubyconf.com/)
 - [Maker Faire Singapore](http://makerfairesingapore.com/)
 - [UX SG](http://www.uxsg.org/)
+- [PHP Conf Asia](http://phpconf.asia/)
 - [PyCon SG](https://pycon.sg/)
 - [Geekcamp SG](http://geekcamp.sg/)
 
