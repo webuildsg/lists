@@ -63,3 +63,4 @@ in slack, irc, gitter.im or scrollback.io
 - Wordpress SG Slack
 - [Scrollback We Build SG](https://scrollback.io/webuildsg)
 - We Build SG IRC #webuildsg freenode
+- [Singapore CSS](https://gitter.im/Singapore-CSS/discussions)
