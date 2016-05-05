@@ -1,5 +1,6 @@
 # lists
-lists of developer, designer, maker related stuff
+
+> lists of developer, designer, maker related stuff
 
 ###conferences
 
@@ -11,11 +12,13 @@ lists of developer, designer, maker related stuff
 - [PHP Conf Asia](http://phpconf.asia/)
 - [PyCon SG](https://pycon.sg/)
 - [Geekcamp SG](http://geekcamp.sg/)
+- [iOS Conf SG](http://www.iosconf.sg/)
+- [DevOps Day Singapore](http://www.devopsdays.org/events/2015-singapore/)
+- [Agile Conf](http://agilesingapore.org/)
 
 ###hackathons / competitions
 
 1. [SAUVC](http://www.sauvc.org/)
-- [Battlehack](https://battlehack.org/singapore)
 - [SuperHappyDevHouse](http://www.superhappydevhouse.sg/w/page/35369026/FrontPage)
 - [Hackatron](http://hackatron.techinasia.com/)
 
@@ -62,6 +65,5 @@ in slack, irc, gitter.im or scrollback.io
 - Grumpy Gits SG Slack
 - Wordpress SG Slack
 - [Scrollback We Build SG](https://scrollback.io/webuildsg)
-- We Build SG IRC #webuildsg freenode
 - [Singapore CSS](https://gitter.im/Singapore-CSS/discussions)
 - [iOS Dev Scout chat](https://ios-sg.herokuapp.com/)
