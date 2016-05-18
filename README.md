@@ -64,6 +64,5 @@ in slack, irc, gitter.im or scrollback.io
 - [RubySG Slack](http://ruby.sg/)
 - Grumpy Gits SG Slack
 - Wordpress SG Slack
-- [Scrollback We Build SG](https://scrollback.io/webuildsg)
 - [Singapore CSS](https://gitter.im/Singapore-CSS/discussions)
 - [iOS Dev Scout chat](https://ios-sg.herokuapp.com/)
