@@ -46,7 +46,7 @@
 1. [Organisers, attendees and speakers](https://webuild.sg/api/v1/events) of open free developer, maker and design events in Singapore
 1. [Interviews of developers, designers and makers](https://live.webuild.sg/)
 1. Twitter list of:
-    1. [developers](https://twitter.com/webuildsg/lists/developers/members)
+    - [developers](https://twitter.com/webuildsg/lists/developers/members)
     - [designers](https://twitter.com/webuildsg/lists/designers/members)
     - [makers](https://twitter.com/webuildsg/lists/makers/members) 
 
